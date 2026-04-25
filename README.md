@@ -1,2 +1,3 @@
-# Command-It-Support
-Support info for CommandIt
+# CommandIT - Support
+
+For support or questions, contact us at: pbarrioarnanz@proton.me
