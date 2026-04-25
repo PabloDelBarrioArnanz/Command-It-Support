@@ -1,4 +1,4 @@
-Privacy Policy for CommandIt
+# Privacy Policy for CommandIt
 
 Privacy Policy
 Last updated: April 25, 2026
