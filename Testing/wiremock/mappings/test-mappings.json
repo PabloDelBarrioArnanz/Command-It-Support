@@ -1,0 +1,36 @@
+{
+  "mappings": [
+    {
+      "request": {
+        "method": "GET",
+        "url": "/api/test"
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "jsonBody": {
+          "message": "Hola desde WireMock con SSL inválido 🎉",
+          "status": "ok"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "POST",
+        "url": "/api/echo"
+      },
+      "response": {
+        "status": 201,
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "jsonBody": {
+          "message": "Echo recibido",
+          "status": "created"
+        }
+      }
+    }
+  ]
+}
